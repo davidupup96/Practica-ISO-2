@@ -1,8 +1,7 @@
 package it1;
 
-import infomine.ProjectISO2.Interfaz_manager;
 
-public class Reserve_manager implements Interfaz_manager{
+public class Reserve_manager implements UI_manager{
 	public void reserve() {
 		System.out.println("Reservar");
 	}
