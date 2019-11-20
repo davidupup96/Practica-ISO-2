@@ -1,9 +1,8 @@
 package infomine.ProjectISO2;
-<<<<<<< HEAD
-=======
+
 
 import Iteration6.Interface_Payment;
->>>>>>> refs/remotes/origin/Features
+
 import it1.UI_manager;
 import it1.UI_orders;
 
